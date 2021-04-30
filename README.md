@@ -12,12 +12,22 @@ Your users should:
 
 - View the optimal layout for the site depending on their device's screen size
 
+### Screenshots
+
+![Desktop view](./images/desktop.jpg)
+![Mobile view](./images/mobile.jpg)
+
 ### Links
 
 - Solution URL: [Github](https://github.com/atulanand206/fem-four-card-feature)
 - Live Site URL: [Netlify](https://fem-four-card-feature.netlify.app/)
 
 ## My process
+
+- Figure out the semantic HTML elements. Worked out without the need of css classes.
+- Assigned the font weights to make it look close to the prototype.
+- Had to introduce the classes while placing them in the grid and for the colors before the cards.
+- Icons were fairly simple to place as I fixed the height of cards.
 
 ### Built with
 
@@ -29,10 +39,13 @@ Your users should:
 
 ### What I learned
 
-### Continued development
+- `::before` selector is sweet.
+- Multiple attributes can be applied using multiple selector classes.
 
 ## Author
 
 - Atul Anand
 
 ## Acknowledgments
+
+Thanks to [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw) for the focused YT tutorials.
